@@ -1,4 +1,4 @@
-## Yanina Mantsevich
+## Yanina Mantsevich :sunflower:
 ![My photo](https://sun9-24.userapi.com/impf/c857532/v857532101/51bf6/QUi29GUeC2g.jpg?size=200x0&quality=90&sign=696e6054a0e799766770da8513b1e018)
 ### Contacts:
 * [GitHub](https://github.com/yanamanc)
@@ -19,4 +19,4 @@ Attending courses in Itransition, Rubizza, Thinknetica on ruby/RoR
 fourth year student of BSUIR
 ### English
 Intermediate English. Unfortunately, there are no English lessons at the fourth year at university, but sometimes I visit **Fialta English Club**.
-P.S. At least I can ask for a beer in a pub in England :)
+P.S. At least I can ask for a beer in a pub in England :beer: :smiley:
